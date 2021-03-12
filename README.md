@@ -41,29 +41,32 @@ Concept behind Tracking-Url is simple, just like we host phishing pages to get c
 
 * Termux
 
-## Features
+## Shows you
+* Longitude
+* Latitude
+* Accuracy
+* Altitude - Not always available
+* Direction - Only available if user is moving
+* Speed - Only available if user is moving
 
-* Bot Like Timeline
-* Follow Followers Target by People
-* Follow Followers Target by Media
-* Follow Followers Target by Hastag
-* Follow Followers Target by Location
-* Follow Followers Target by People - with DM
-* Follow Followers Target by People - No Like
-* Follow Followers Target by People - No Comment & Like
-* Repost Media Target by People
-* Repost Media Target by Hashtag
-* Repost Media Target by Link
-* Comment & Like Followers Target by People
-* Comment & Like Followers Target by Hashtag
-* Bom Like Target's Post
-* Bom Comment Target's Post
-* Unfollow Not Followback
-* Unfollow All Following
-* Delete All Media
+Along with Location Information we also get **Device Information** without any permissions :
 
-----
+* Unique ID using Canvas Fingerprinting
+* Device Model - Not always available
+* Operating System
+* Platform
+* Number of CPU Cores - Approximate Results
+* Amount of RAM - Approximate Results
+* Screen Resolution
+* GPU information
+* Browser Name and Version
+* Public IP Address
+* Local IP Address
+* Local Port
 
+**Automatic IP Address Reconnaissance** is performed after the above information is received.
+
+**This tool is a Proof of Concept and is for Educational Purposes Only, Seeker shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location etc.**
 
 ## INSTALLATION [Termux] :
 
