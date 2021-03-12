@@ -71,6 +71,25 @@ Along with Location Information we also get **Device Information** without any p
 * Local IP Address
 * Local Port
 
+## Usage
+
+```bash
+
+python3 seeker.py -h
+
+usage: seeker.py [-h] [-s SUBDOMAIN]
+
+optional arguments:
+
+  -h, --help            show this help message and exit
+
+  -k KML, --kml         Provide KML Filename ( Optional )
+
+  -p PORT, --port       Port for Web Server [ Default : 8080 ]
+
+  -t TUNNEL, --tunnel   Specify Tunnel Mode [ Available : manual ]
+
+
 **Automatic IP Address Reconnaissance** is performed after the above information is received.
 
 **This tool is a Proof of Concept and is for Educational Purposes Only, Seeker shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location etc.**
@@ -119,8 +138,8 @@ Along with Location Information we also get **Device Information** without any p
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
  
-* Use tools at your own risk!!!
-* Use this Tool for personal use, not for sale!!!
+**This tool is a Proof of Concept and is for Educational Purposes Only, TRACKING-URL shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location etc.**
+
 
 
 
