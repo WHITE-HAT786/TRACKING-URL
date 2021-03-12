@@ -81,25 +81,25 @@ Along with Location Information we also get **Device Information** without any p
 
 * `apt-get upgrade -y`
 
-* `pkg install openssl-tool -y`
+* `pkg install openssh -y`
 
 * `pkg install wget -y`
 
 * `pkg install git -y`
 
-* `pkg install nodejs-lts`
+* `pkg install nmap`
 
-* `pkg install nodejs`
+* `pkg install python`
 
 * `pkg install curl`
 
 * `git clone https://github.com/WHITE-HAT786/INSTAGRAM-TOOLKIT.git`
 
-* `cd INSTAGRAM-TOOLKIT`
+* `cd TRACKING-URL`
 
 * `ls`
 
-* `node index.js`
+* `python tracking-url.py -t manual`
 
 ## SCREEN SHOTS [Termux]
 
