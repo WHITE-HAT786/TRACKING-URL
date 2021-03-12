@@ -136,9 +136,12 @@ optional arguments:
 
 ## WARNING : 
 
-***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
+***This tool is a Proof of Concept and is for Educational Purposes Only, TRACKING-URL shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location etc.***
+
+
+
+
  
-**This tool is a Proof of Concept and is for Educational Purposes Only, TRACKING-URL shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location etc.**
 
 
 
