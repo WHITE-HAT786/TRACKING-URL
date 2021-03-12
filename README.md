@@ -92,7 +92,7 @@ optional arguments:
 
 **Automatic IP Address Reconnaissance** is performed after the above information is received.
 
-**This tool is a Proof of Concept and is for Educational Purposes Only, Seeker shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location etc.**
+```
 
 ##INSTALLATION [Termux] :
 
