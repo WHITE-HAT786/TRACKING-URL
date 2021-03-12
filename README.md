@@ -103,8 +103,7 @@ Along with Location Information we also get **Device Information** without any p
 
 ## SCREEN SHOTS [Termux]
 
-<a href="https://ibb.co/7JFmbdy"><img src="https://i.ibb.co/TB53rxh/20210309-083525.png" alt="20210309-083525" border="0"></a>
-
+<a href="https://ibb.co/5jkv4th"><img src="https://i.ibb.co/rp3M0T2/IMG-20210312-121606.jpg" alt="IMG-20210312-121606" border="0"></a>
 <p align="center">
 
 
