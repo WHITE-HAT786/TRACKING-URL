@@ -6,7 +6,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/WHITE-HAT786/instagram-tools.git"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-TRACKING_URL-green.svg"></a>
-<a href="https://github.com/WHITE-HAT786/instagram-tools.git"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
+<a href="https://github.com/WHITE-HAT786/instagram-tools.git"><img title="Version" src="https://img.shields.io/badge/Version-1.2.5-green.svg?style=flat-square"></a>
 <a href="https://github.com/WHITE-HAT786/instagram-tools.git"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
@@ -70,30 +70,6 @@ Along with Location Information we also get **Device Information** without any p
 * Public IP Address
 * Local IP Address
 * Local Port
-
-## Usage
-
-```bash
-
-python seeker.py -h
-
-usage: seeker.py [-h] [-s SUBDOMAIN]
-
-optional arguments:
-
-  -h, --help            show this help message and exit
-
-  -k KML, --kml         Provide KML Filename ( Optional )
-
-  -p PORT, --port       Port for Web Server [ Default : 8080 ]
-
-  -t TUNNEL, --tunnel   Specify Tunnel Mode [ Available : manual ]
-
-
-**Automatic IP Address Reconnaissance** is performed after the above information is received.
-
-```
-
 ## INSTALLATION [Termux] :
 
 * `apt-get update -y`
@@ -119,6 +95,29 @@ optional arguments:
 * `ls`
 
 * `python tracking-url.py -t manual`
+
+## Usage
+
+```bash
+
+python seeker.py -h
+
+usage: seeker.py [-h] [-s SUBDOMAIN]
+
+optional arguments:
+
+  -h, --help            show this help message and exit
+
+  -k KML, --kml         Provide KML Filename ( Optional )
+
+  -p PORT, --port       Port for Web Server [ Default : 8080 ]
+
+  -t TUNNEL, --tunnel   Specify Tunnel Mode [ Available : manual ]
+
+
+**Automatic IP Address Reconnaissance** is performed after the above information is received.
+
+```
 
 
 ## SCREEN SHOTS [Termux]
