@@ -94,7 +94,7 @@ Along with Location Information we also get **Device Information** without any p
 
 * `ls`
 
-* `python tracking-url.py -t manual`
+* `python tracking-url.py`
 
 ## Usage
 
