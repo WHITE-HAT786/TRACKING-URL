@@ -17,7 +17,7 @@ chmod 777 template/nearyou/php/result.txt
 echo
 
 echo '[!] Installed.'
-am start -a android.intent.action.VIEW -d am start -a android.intent.action.VIEW -d https://www.youtube.com/channel/UCLTkYtIJaFAopdiJ5ZqPQAw
+am start -a android.intent.action.VIEW -d https://www.youtube.com/channel/UCLTkYtIJaFAopdiJ5ZqPQAw
 cd $HOME/TRACKING-URL
 rm install.sh
 rm arch_install.sh
