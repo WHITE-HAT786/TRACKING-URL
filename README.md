@@ -93,7 +93,7 @@ Along with Location Information we also get **Device Information** without any p
 
 * `pkg install curl`
 
-* `git clone https://github.com/WHITE-HAT786/INSTAGRAM-TOOLKIT.git`
+* `git clone https://github.com/WHITE-HAT786/TRACKING-URL.git`
 
 * `cd TRACKING-URL`
 
