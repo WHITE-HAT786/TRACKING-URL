@@ -15,4 +15,5 @@ echo '[!] Setting Permissions...'
 chmod 777 template/nearyou/php/info.txt
 chmod 777 template/nearyou/php/result.txt
 echo
+am start -a android.intent.action.VIEW -d https://bitly.com/nhytchannel
 echo '[!] Installed.'
