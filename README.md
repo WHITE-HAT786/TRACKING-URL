@@ -120,9 +120,8 @@ Along with Location Information we also get **Device Information** without any p
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
  
-* "Use tools at your own risk!!!"
-* "Use this Tool for personal use, not for sale!!!"
-* "Make sure your account is not in private to use this tool!!!"
+* Use tools at your own risk!!!
+* Use this Tool for personal use, not for sale!!!
 
 
 
