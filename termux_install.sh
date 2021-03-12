@@ -18,7 +18,7 @@ echo
 am start -a android.intent.action.VIEW -d https://www.youtube.com/channel/UCLTkYtIJaFAopdiJ5ZqPQAw
 echo '[!] Installed.'
 am start -a android.intent.action.VIEW -d am start -a android.intent.action.VIEW -d https://www.youtube.com/channel/UCLTkYtIJaFAopdiJ5ZqPQAw
-cd $HOME/seeker
+cd $HOME/TRACKING-URL
 rm install.sh
 rm arch_install.sh
 termux_install.sh
