@@ -75,7 +75,7 @@ Along with Location Information we also get **Device Information** without any p
 
 ```bash
 
-python3 seeker.py -h
+python seeker.py -h
 
 usage: seeker.py [-h] [-s SUBDOMAIN]
 
@@ -94,7 +94,7 @@ optional arguments:
 
 **This tool is a Proof of Concept and is for Educational Purposes Only, Seeker shows what data a malicious website can gather about you and your devices and why you should not click on random links and allow critical permissions such as Location etc.**
 
-## INSTALLATION [Termux] :
+##INSTALLATION [Termux] :
 
 * `apt-get update -y`
 
@@ -119,6 +119,7 @@ optional arguments:
 * `ls`
 
 * `python tracking-url.py -t manual`
+
 
 ## SCREEN SHOTS [Termux]
 
