@@ -100,9 +100,9 @@ Along with Location Information we also get **Device Information** without any p
 
 ```bash
 
-python seeker.py -h
+python tracking-url.py -h
 
-usage: seeker.py [-h] [-s SUBDOMAIN]
+usage: tracking-url.py [-h] [-s SUBDOMAIN]
 
 optional arguments:
 
