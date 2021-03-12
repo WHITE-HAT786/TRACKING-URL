@@ -36,6 +36,13 @@ Concept behind Tracking-Url is simple, just like we host phishing pages to get c
 ## AVAILABLE ON :
 
 * Termux
+* Kali Linux
+* BlackArch Linux
+* Ubuntu
+* Kali Nethunter
+* Termux
+* Parrot OS
+
 
 ### TESTED ON :
 
