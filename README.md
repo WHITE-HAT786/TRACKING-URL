@@ -95,6 +95,7 @@ Along with Location Information we also get **Device Information** without any p
 * `ls`
 
 * `python tracking-url.py`
+###### If script is not working so you can run manual
 
 ## Usage
 
