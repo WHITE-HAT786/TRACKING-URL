@@ -94,7 +94,7 @@ optional arguments:
 
 ```
 
-##INSTALLATION [Termux] :
+## INSTALLATION [Termux] :
 
 * `apt-get update -y`
 
