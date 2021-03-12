@@ -7,7 +7,7 @@ apt-get -y install python3 python3-pip &>> install.log
 echo '    PHP'
 apt-get -y install php &>> install.log
 echo '    ssh'
-apt-get -y install ssh &>> install.log
+apt-get -y install openssh &>> install.log
 echo '    Requests'
 pip3 install requests &>> install.log
 echo
